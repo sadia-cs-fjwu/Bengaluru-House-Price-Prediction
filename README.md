@@ -57,7 +57,13 @@ The project covers the complete workflow of a machine learning application, incl
 
 ## Project Screenshots
 
-(Add your application screenshots here.)
+### Home Page
+
+![Home](images/homepage.png)
+
+### Prediction Result
+
+![Prediction](images/result.png)
 
 ## Acknowledgement
 
