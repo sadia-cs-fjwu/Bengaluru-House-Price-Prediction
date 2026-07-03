@@ -59,11 +59,11 @@ The project covers the complete workflow of a machine learning application, incl
 
 ### Home Page
 
-![Home](images/homepage.png)
+![Home](images/homepage.PNG)
 
 ### Prediction Result
 
-![Prediction](images/result.png)
+![Prediction](images/result.PNG)
 
 ## Acknowledgement
 
